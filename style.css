@@ -1,0 +1,24 @@
+body {
+    background-color: #FFF1D6;
+    font-family: sans-serif;
+    line-height: 1.6; /* Muda a altura da linha */
+/*    background: url('fotos.jpg') no-repeat;*/
+}
+
+h1 {
+    color: #7E9F19;
+}
+.sessao {
+    border: 1px solid #CCC;
+    border-color: #CCC #999 #999 #CCC;
+    margin-bottom: 20px;
+    padding: 0px 10px 10px 10px;
+    background-color: #FFF;
+}
+
+.sessao h2{
+    border-bottom: 1px dashed #7E9F19;
+}
+
+
+
