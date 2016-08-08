@@ -14,11 +14,23 @@ h1 {
     margin-bottom: 20px;
     padding: 0px 10px 10px 10px;
     background-color: #FFF;
+    border-radius: 10px;
 }
+
 
 .sessao h2{
     border-bottom: 1px dashed #7E9F19;
 }
 
 
+.imglogo {
+	border: 1px solid #7E9F19;
+	padding: 2px;
+	margin: 0px 10px 0 0;
+	width: 200px;
+    float:left;
+}
 
+.clear {
+	clear: both;
+}
