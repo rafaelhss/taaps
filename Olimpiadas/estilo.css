@@ -1,0 +1,79 @@
+body{
+    font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial;
+    background-color: #EEEEEE;
+
+}
+.conteiner{
+    width: 960px;
+    margin: 0 auto;
+    background-color: #327F35;
+    padding: 0px 10px;
+}
+
+
+.logo{
+    background-color: #163C1C;
+    text-align: center;
+    font-family: "Arial Black", Gadget, sans-serif;
+    border-left: 20px solid #fff;
+    border-right: 20px solid #fff;
+    border-radius: 50px;
+    height: 100px;
+    padding-top: 15px;
+    margin-bottom: 20px;
+}
+
+.footer{
+    background-color: #9999CC;
+    text-align: center;
+    border-top: 2px solid #fff;
+    border-bottom: 10px solid #fff;
+    border-radius: 15px;
+}
+
+.categoria {
+    padding-left: 50px;
+    width: 310px;
+    float: left;
+}
+.categoria img {
+    width: 200px;
+    height: 150px;
+    border-radius: 35%;
+    float: left;
+    padding-right: 10px;
+    border-left: solid;
+    border-left-width: 3px;
+}
+
+.ouro img{
+    border-left-color: goldenrod;
+}
+.prata img{
+    border-left-color: cornsilk;
+}
+.bronze img{
+    border-left-color: brown ;
+}
+
+
+.medalhas {
+    float: right;
+    width: 100px;
+}
+
+.medalhasbr{
+    float: left;
+}
+
+.clear {
+    clear: left;
+}
+tr.d0 td {
+    background-color: #CC9999;
+    color: black;
+}
+tr.d1 td {
+    background-color: #9999CC;
+    color: black;
+}
